@@ -1,0 +1,4 @@
+Tamás;34
+David;98
+Csaba;56
+Nora;1
